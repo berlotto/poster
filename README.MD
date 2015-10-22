@@ -47,7 +47,7 @@ TODO
 ----
 
  - Read rss for more than 1 site
-
+ - Post to other social networks
 
 Run information
 ----------------
