@@ -1,8 +1,8 @@
 # -*- encoding: utf-8 -*-
 #
-# File part of "poster.py" script
+# File part of "poster.py" script, rename to: config.py
 # Author : Sérgio Berlotto Jr <sergio.berlotto@gmail.com>
-# License: MIT
+# License: GPLv3
 #
 FEED_URL = 'http://blog.programadorlivre.com/feed/'
 DBFILE = 'posts.db'

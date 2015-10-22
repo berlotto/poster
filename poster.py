@@ -3,7 +3,7 @@
 #
 # "poster.py" script - See README.MD for more information
 # Author : Sérgio Berlotto Jr <sergio.berlotto@gmail.com>
-# License: MIT
+# License: GPLv3
 #
 import feedparser
 import dataset
