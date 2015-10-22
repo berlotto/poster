@@ -15,7 +15,7 @@ TAG_MAX_LENGTH = 5  # Max size of tag term to post it
 TAGS_QTD = 3  # Max number of tags to post
 MIN_POST_REPETITION = 5  # Minimal number of post to permit repeat posts
 # Twitter Credencials
-t_token = "22940852-t0uDvyXlcx2eJqXZFM6c45DFDnseJwlri5oS8YhMF"
-t_token_key = "tpFtD4EvWBcA0EApHZpgl5WE37cCY8NdZRvQQyySO1P7C"
-t_con_secret = "qwVuKTU02AdsLS7tJWznIIUQX"
-t_con_secret_key = "fbGV2RkJwrfWGJcxZLzNffwRh0hBfPMFbAMgC2HjqmlYVNBGqc"
+t_token = ""  # Twitter App Access Token
+t_token_key = ""  # Twitter App Access Token Secret
+t_con_secret = ""  # Twitter App Consumer Key
+t_con_secret_key = ""  # Twitter App Consumer Secret
